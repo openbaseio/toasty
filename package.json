@@ -1,0 +1,20 @@
+{
+  "name": "@openbaseio/toasty",
+  "version": "1.0.0",
+  "description": "Toasty!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbaseio/toasty.git"
+  },
+  "author": "dev@openbase.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openbaseio/toasty/issues"
+  },
+  "homepage": "https://github.com/openbaseio/toasty#readme"
+}
